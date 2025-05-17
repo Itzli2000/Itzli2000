@@ -1,9 +1,9 @@
 <!-- Banner / hero
      ──────────────────────────────────────────────────────────────────── -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/assets/logo-horizontal.svg"
+  <img src="https://github.com/Itzli2000/Itzli2000/blob/main/Ariel_logo.png"
        alt="Código Obsidiana logo" height="120" /><br/>
-  <strong>Código Obsidiana</strong>
+  <strong>Ariel Molina</strong>
 </h1>
 
 <p align="center"><em>Where code takes shape with edge&nbsp;and&nbsp;purpose</em></p>
@@ -46,7 +46,7 @@
 
 | Platform | Link |
 | -------- | ---- |
-| LinkedIn | <[Ariel Itzli Molina Sánchez](https://www.linkedin.com/in/ariel-itzli-molina-s%C3%A1nchez-0b4a09129/)> |
+| LinkedIn | [Ariel Itzli Molina Sánchez](https://www.linkedin.com/in/ariel-itzli-molina-s%C3%A1nchez-0b4a09129/) |
 | Portfolio | <https://codigo-obsidiana.dev> |
 
 ---
