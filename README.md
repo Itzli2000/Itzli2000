@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- Banner / hero
+     ──────────────────────────────────────────────────────────────────── -->
+<h1 align="center">
+  <!-- Use the horizontal SVG or PNG you exported -->
+  <img src="https://raw.githubusercontent.com/USERNAME/assets/logo-horizontal.svg"
+       alt="Código Obsidiana logo" height="120" /><br/>
+  <strong>Código Obsidiana</strong>
+</h1>
 
-<!--
-**Itzli2000/Itzli2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>Where code takes shape with edge&nbsp;and&nbsp;purpose</em></p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hi, I’m Ariel Itzli Molina — Frontend Specialist
+
+- 🔭 Currently building **educational 3D web experiences**  
+- 🧠 Focused on **modular architectures** (micro-frontends & design systems)  
+- 🛠 Primary stack: **React**, **TypeScript**, **Astro**, **Three.js**  
+- ✍️ Sharing insights at <https://codigo-obsidiana.dev> (coming soon)  
+
+<details>
+<summary>🔧 Technologies & tools I enjoy</summary>
+
+| Domain | Stack |
+| ------ | ----- |
+| **Frontend** | React · Astro · Vite · Nx · Tailwind |
+| **3D / Visual** | Three.js · GLSL · A-Frame |
+| **Testing** | Vitest · Testing Library |
+| **DevOps** | GitHub Actions · Docker |
+| **Utilities** | Axios · Zustand · Storybook |
+
+</details>
+
+---
+
+## 📈 Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Itzli2000&show_icons=true&theme=graywhite"
+    alt="GitHub Stats" />
+</p>
+
+---
+
+## 🌐 Let’s connect
+
+| Platform | Link |
+| -------- | ---- |
+| LinkedIn | <[https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/ariel-itzli-molina-s%C3%A1nchez-0b4a09129/)> |
+| Portfolio | <https://codigo-obsidiana.dev> |
+
+---
+
+<sub>“Código Obsidiana” is my space to explore precise, high-impact frontend.  
+Logo & brand © 2025 Ariel Itzli Molina. Feel free to fork this README template 🤝</sub>
