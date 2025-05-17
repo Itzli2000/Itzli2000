@@ -2,22 +2,21 @@
      ──────────────────────────────────────────────────────────────────── -->
 <h1 align="center">
   <img src="https://github.com/Itzli2000/Itzli2000/blob/main/Ariel_logo.png"
-       alt="Código Obsidiana logo" height="120" /><br/>
-  <strong>Ariel Molina</strong>
+       alt="Ariel Molina logo" height="120" />
 </h1>
 
 <p align="center"><em>Where code takes shape with edge&nbsp;and&nbsp;purpose</em></p>
 
 ---
 
-## 👋 Hi, I’m Ariel Itzli Molina — Frontend Specialist
+## 👋 Hi, I’m Ariel Itzli Molina Sánchez — Frontend Specialist
 
 - 🔭 Currently building **educational 3D web experiences**  
 - 🧠 Focused on **modular architectures** (micro-frontends & design systems)  
 - 🛠 Primary stack: **React**, **TypeScript**, **Astro**, **Three.js**  
 - ✍️ Sharing insights at <https://codigo-obsidiana.dev> (coming soon)  
 
-<details>
+<details open>
 <summary>🔧 Technologies & tools I enjoy</summary>
 
 | Domain | Stack |
