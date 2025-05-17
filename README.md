@@ -1,7 +1,6 @@
 <!-- Banner / hero
      ──────────────────────────────────────────────────────────────────── -->
 <h1 align="center">
-  <!-- Use the horizontal SVG or PNG you exported -->
   <img src="https://raw.githubusercontent.com/USERNAME/assets/logo-horizontal.svg"
        alt="Código Obsidiana logo" height="120" /><br/>
   <strong>Código Obsidiana</strong>
@@ -24,8 +23,8 @@
 | Domain | Stack |
 | ------ | ----- |
 | **Frontend** | React · Astro · Vite · Nx · Tailwind |
-| **3D / Visual** | Three.js · GLSL · A-Frame |
-| **Testing** | Vitest · Testing Library |
+| **3D / Visual** | Three.js |
+| **Testing** | Vitest · Testing Library · Jest |
 | **DevOps** | GitHub Actions · Docker |
 | **Utilities** | Axios · Zustand · Storybook |
 
@@ -47,7 +46,7 @@
 
 | Platform | Link |
 | -------- | ---- |
-| LinkedIn | <[https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/ariel-itzli-molina-s%C3%A1nchez-0b4a09129/)> |
+| LinkedIn | <[Ariel Itzli Molina Sánchez](https://www.linkedin.com/in/ariel-itzli-molina-s%C3%A1nchez-0b4a09129/)> |
 | Portfolio | <https://codigo-obsidiana.dev> |
 
 ---
