@@ -2,7 +2,7 @@
      ──────────────────────────────────────────────────────────────────── -->
 <h1 align="center">
   <img src="https://github.com/Itzli2000/Itzli2000/blob/main/linkedin.png"
-       alt="Ariel Molina header" height="120" />
+       alt="Ariel Molina header" />
 </h1>
 
 <p align="center"><em>Where code takes shape with edge&nbsp;and&nbsp;purpose</em></p>
