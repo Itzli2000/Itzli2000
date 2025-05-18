@@ -1,8 +1,8 @@
 <!-- Banner / hero
      ──────────────────────────────────────────────────────────────────── -->
 <h1 align="center">
-  <img src="https://github.com/Itzli2000/Itzli2000/blob/main/Ariel_logo.png"
-       alt="Ariel Molina logo" height="120" />
+  <img src="https://github.com/Itzli2000/Itzli2000/blob/main/linkedin.png"
+       alt="Ariel Molina header" height="120" />
 </h1>
 
 <p align="center"><em>Where code takes shape with edge&nbsp;and&nbsp;purpose</em></p>
