@@ -46,7 +46,7 @@
 | Platform | Link |
 | -------- | ---- |
 | LinkedIn | [Ariel Itzli Molina Sánchez](https://www.linkedin.com/in/ariel-itzli-molina-s%C3%A1nchez-0b4a09129/) |
-| Portfolio | <https://codigo-obsidiana.dev> |
+| Portfolio | <https://www.codigo-obsidiana.dev/en/about> |
 
 ---
 
