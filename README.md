@@ -14,7 +14,7 @@
 - 🔭 Currently building **educational 3D web experiences**  
 - 🧠 Focused on **modular architectures** (micro-frontends & design systems)  
 - 🛠 Primary stack: **React**, **TypeScript**, **Astro**, **Three.js**  
-- ✍️ Sharing insights at <https://codigo-obsidiana.dev> (coming soon)  
+- ✍️ Sharing insights at <https://codigo-obsidiana.dev> 
 
 <details open>
 <summary>🔧 Technologies & tools I enjoy</summary>
